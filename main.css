@@ -1,0 +1,46 @@
+#menu{
+    
+    padding-bottom: 10px;}
+        body{
+            background-image: url(OIP.jpg);
+            background-size: cover;
+        }
+        li:hover{
+        
+           background-color: aliceblue;
+            height: 6px;
+            flex-direction: 10px;
+          }
+       
+        li a{
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: 15px;
+           }    
+    
+    }
+       #contenu{
+       
+       right: 101px;
+       height: 500px;
+      
+       }
+       #pied{
+        height: 40px;
+    
+       }
+       li{
+        display: inline-block;
+       
+        padding: 20px;
+        text-align: center;
+        font-style: inherit;
+        color: black;
+       }
+       li:hover{
+        color: bisque;
+        background-color: rgba(125, 121, 122, 0);
+        height: 6px;
+        flex-direction: 10px;
+       }

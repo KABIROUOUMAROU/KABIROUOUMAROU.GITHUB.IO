@@ -1,0 +1,47 @@
+#menu{
+    background-color: rgb(34, 28, 17);
+padding-bottom: 50px;
+padding-top: 30px;}
+    body{
+        background-color: #fff;
+    }       
+#pied{
+    background-color: rgba(154, 154, 154, 0.009);
+}
+   #contenu{
+    
+   right: 101px;
+   height: 1000px;
+  
+   }
+   #pied{
+    background-color: rgb(22, 21, 21);
+    height: 40px;
+
+   }
+   li{
+    display: inline-block;
+   
+    padding: 20px;
+    text-align: center;
+    font-style: inherit;
+   
+   }
+   li:hover{
+    
+    background-color:grey;
+    height: 6px;
+    flex-direction: 10px;
+    
+   }
+   img{
+    width: 800px;
+    border: 1px solid #fff;
+   }
+   li a{
+    text-decoration: none;
+    font-size:16px;
+    color: #fff;
+    font-weight: bold;
+
+   }
